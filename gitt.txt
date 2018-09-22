@@ -1,0 +1,1 @@
+git checkout -- filename = removes all unstaged chnges
