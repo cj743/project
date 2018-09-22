@@ -2,3 +2,5 @@ git log = check previous commits
 git branch = tells you which branches exist and which oen you are on
 git add filename = moves file to staging area
 git commit -m "TitleOfChange"
+git log --graph= shows gaphical representation of tree
+
