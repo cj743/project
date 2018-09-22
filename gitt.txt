@@ -1,1 +1,4 @@
 git checkout -- filename = removes all unstaged chnges
+git stash save "name" = stashes current, uncommmited changes
+git stash pop = gets the changes from stash
+used to change the branch of some changes made 
